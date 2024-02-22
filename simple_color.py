@@ -79,5 +79,5 @@ while True:
     if key==27:                                                                 #ctrl+Q will close all windows
         break
 
-cap.release()
+cap.release()                                                                   #vivek was here
 cv2.destroyAllWindows()
